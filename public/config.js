@@ -1,7 +1,7 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
-  VITE_CORS_PROXY_URL: "tvproxy.skool.workers.dev",
+  VITE_CORS_PROXY_URL: "https://tvproxy.skool.workers.dev",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZmRiMzQ5MDY1YTM0NjAwM2IwMzY2ODgxYWY2ZWFhMSIsIm5iZiI6MTcyNTMzMjQ2MS42ODkzODEsInN1YiI6IjY0ZGUxNGUzYTNiNWU2MDBlMjljOTkyMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xzGv4_I2k5yci4b0wOYb_Ovnl3Ciil4UGHIzxQYRcRk",
@@ -13,7 +13,7 @@ window.__CONFIG__ = {
   VITE_NORMAL_ROUTER: true,
 
   // The backend URL to communicate with
-  VITE_BACKEND_URL: "tv.skibidibopbopbopyesyes.cfd",
+  VITE_BACKEND_URL: "https://tv.skibidibopbopbopyesyes.cfd",
 
   // A comma separated list of disallowed IDs in the case of a DMCA claim - in the format "series-<id>" and "movie-<id>"
   VITE_DISALLOWED_IDS: ""
