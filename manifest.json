@@ -1,6 +1,6 @@
 {
-  "name": "SkoolTV",
-  "short_name": "SkoolTV",
+  "name": "sudo-flix",
+  "short_name": "sudo-flix",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#120f1d",
